@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @whereiscoder
-- 👀 I’m interested in Backend-Engineering
-- 🌱 I’m currently learning Spring Boot, Spring Data JPA, QueryDSL..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-whereiscoder/whereiscoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 곽철민
+
+## 이력
+📃 2022.09 ~ 2023.02 Likelion Backend School 2nd. <br/>
+🖥 2017.03 ~ 2023.08 JeonBuk National Univ Software Engineering. 
+
+## Tech Stack
+- I’m currently learning ..
+  - Backend : Spring Boot, Spring Data JPA, QueryDSL 
+  - SQL : MySQL, PostGreSQL
+  - Infra : AWS, Docker
+  - Language: Java, Python
+  - Version Control : Git, Github, Gitlab
